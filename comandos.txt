@@ -1,0 +1,5 @@
+sudo docker build -t mearin .
+
+
+sudo docker run -it  -v /home/eucassio/Documentos/projetos/IA/eng-edu/ml/guides/mearim:/opt/mearin mearin 
+
